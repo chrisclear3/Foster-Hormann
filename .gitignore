@@ -1,0 +1,5 @@
+/build/*
+polyclip
+result.*
+.vscode/*
+.polyclip
