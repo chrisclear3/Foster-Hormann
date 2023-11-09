@@ -11,8 +11,8 @@ def get_coord_list(file_path):
             y.append(float(coords[1]))
     return x, y
 
-file1 = './examples/Fig8-P.poly'
-file2 = './examples/Fig14-P.poly'
+file1 = './data/p50-0.poly'
+file2 = './data/p50-1.poly'
 
 x1,y1 = get_coord_list(file1)
 x2,y2 = get_coord_list(file2)
