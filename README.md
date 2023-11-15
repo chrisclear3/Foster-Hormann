@@ -5,9 +5,7 @@ It is the source code of [Clipping simple polygons with degenerate intersections
 
 ## Build & Execute
 ```
-mkdir build && cd build
-cmake ..
-make
+./build.sh
 ```
 The default is debug `-g` flag in CMakeLists.txt
 
